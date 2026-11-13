@@ -1,0 +1,6 @@
+data/
+.venv/
+__pycache__/
+my_project.zip
+zip_project.py
+*.zip
